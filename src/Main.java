@@ -8,7 +8,7 @@ public class Main {
         featureSun mm=new featureSun();
         mm.heat="local123";
         mm.size=260;
-        mm.temp="120";
+        mm.temp=120;
 
 
 }}
