@@ -5,5 +5,10 @@ public class Main {
         xx.sun=2;
         xx.pluton=3;
 
+        featureSun mm=new featureSun();
+        mm.heat="local123";
+        mm.size=260;
+        mm.temp=120;
+
 
 }}
